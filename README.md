@@ -1,6 +1,6 @@
 # Marine Debris Detection — Distributed ML on MARIDA
-<img width="2257" height="824" alt="image" src="https://github.com/user-attachments/assets/3b26a379-6460-43b2-befc-be983872c93e" />
-<img width="591" height="591" alt="image" src="https://github.com/user-attachments/assets/0a6d00d7-4652-400f-9ef7-afb6607237ec" />
+<img width="564" height="206" alt="image" src="https://github.com/user-attachments/assets/3b26a379-6460-43b2-befc-be983872c93e" />
+<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/0a6d00d7-4652-400f-9ef7-afb6607237ec" />
 
 **Authors:** Lorenzo Albani, Luigi Ascione, Tommaso Maitino
 
